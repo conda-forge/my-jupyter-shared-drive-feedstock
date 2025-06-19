@@ -37,7 +37,7 @@ test:
     - if not exist %PREFIX%\\share\\jupyter\\labextensions\\@jupyter\\my-shared-docprovider-extension\\package.json (exit 1)          # [win]
 
 about:
-  home: https://github.com/davidbrochart/my-jupyter-shared-drive
+  home: https://github.com/quantstack/my-jupyter-shared-drive
   summary: 'A shared drive that you want to keep for yourself :)'
   license: BSD-3-Clause
   license_family: BSD
