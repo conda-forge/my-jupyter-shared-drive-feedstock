@@ -1,5 +1,5 @@
 {% set name = "my-jupyter-shared-drive" %}
-{% set version = "0.2.0" %}
+{% set version = "0.2.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/my_jupyter_shared_drive-{{ version }}.tar.gz
-  sha256: 4ac54f1d652af111850f72c511bb2eeef68eb623b9687dacfb6936349a2cb2ae
+  sha256: 9c94530b8e87f1a0d8d1d732a4547acd750a915276ba0570fe679384bd97ec18
 
 build:
   noarch: python
