@@ -3,7 +3,7 @@ About my-jupyter-shared-drive-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/my-jupyter-shared-drive-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/davidbrochart/my-jupyter-shared-drive
+Home: https://github.com/quantstack/my-jupyter-shared-drive
 
 Package license: BSD-3-Clause
 
